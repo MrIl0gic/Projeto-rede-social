@@ -16,7 +16,8 @@ html, body{
 
 body{
 
-    background: url(../imagens/fundo-madeira.jpg)no-repeat top center/ cover;
+    background: url(../imagens/fundo-madeira.jpg)no-repeat bottom center/ cover fixed;
+   
 }
 
 main{
